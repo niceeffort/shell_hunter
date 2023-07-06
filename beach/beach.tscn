@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfqjthf7ae7dm"]
+
+[ext_resource type="Texture2D" uid="uid://df51hj86x17pm" path="res://beach/beach.png" id="1_a8f55"]
+
+[node name="Beach" type="Sprite2D"]
+texture = ExtResource("1_a8f55")
+centered = false
